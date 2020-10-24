@@ -1,0 +1,10 @@
+C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.vbprojAssemblyReference.cache
+C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.Resources.resources
+C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.vbproj.GenerateResource.cache
+C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.vbproj.CoreCompileInputs.cache
+C:\Users\satoshi\source\repos\BowlingKataVB\bin\Debug\BowlingKataVB.dll
+C:\Users\satoshi\source\repos\BowlingKataVB\bin\Debug\BowlingKataVB.pdb
+C:\Users\satoshi\source\repos\BowlingKataVB\bin\Debug\BowlingKataVB.xml
+C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.dll
+C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.xml
+C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.pdb

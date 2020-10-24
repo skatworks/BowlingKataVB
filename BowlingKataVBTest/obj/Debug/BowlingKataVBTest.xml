@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BowlingKataVBTest
+</name>
+</assembly>
+<members>
+<member name="T:BowlingKataVBTest.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BowlingKataVBTest.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BowlingKataVBTest.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:BowlingKataVBTest.GameTest.Init">
+ <summary>
+ テスト初期化
+ </summary>
+</member>
+<member name="M:BowlingKataVBTest.GameTest.AllGutterTest">
+ <summary>
+ すべてガターの場合
+ </summary>
+</member>
+<member name="M:BowlingKataVBTest.GameTest.AllOneRollTest">
+ <summary>
+ すべて1ピンだった場合
+ </summary>
+</member>
+</members>
+</doc>
