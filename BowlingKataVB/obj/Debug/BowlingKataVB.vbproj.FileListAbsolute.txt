@@ -8,3 +8,12 @@ C:\Users\satoshi\source\repos\BowlingKataVB\bin\Debug\BowlingKataVB.xml
 C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.dll
 C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.xml
 C:\Users\satoshi\source\repos\BowlingKataVB\obj\Debug\BowlingKataVB.pdb
+D:\git\BowlingKataVB\BowlingKataVB\bin\Debug\BowlingKataVB.dll
+D:\git\BowlingKataVB\BowlingKataVB\bin\Debug\BowlingKataVB.pdb
+D:\git\BowlingKataVB\BowlingKataVB\bin\Debug\BowlingKataVB.xml
+D:\git\BowlingKataVB\BowlingKataVB\obj\Debug\BowlingKataVB.Resources.resources
+D:\git\BowlingKataVB\BowlingKataVB\obj\Debug\BowlingKataVB.vbproj.GenerateResource.cache
+D:\git\BowlingKataVB\BowlingKataVB\obj\Debug\BowlingKataVB.vbproj.CoreCompileInputs.cache
+D:\git\BowlingKataVB\BowlingKataVB\obj\Debug\BowlingKataVB.dll
+D:\git\BowlingKataVB\BowlingKataVB\obj\Debug\BowlingKataVB.xml
+D:\git\BowlingKataVB\BowlingKataVB\obj\Debug\BowlingKataVB.pdb

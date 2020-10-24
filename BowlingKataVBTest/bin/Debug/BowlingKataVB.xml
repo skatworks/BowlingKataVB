@@ -22,5 +22,17 @@ BowlingKataVB
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="M:BowlingKataVB.Game.Roll(System.Int32)">
+ <summary>
+ 1投で倒したピンの数
+ </summary>
+ <param name="pins">1投で倒したピンの数</param>
+</member>
+<member name="M:BowlingKataVB.Game.GetScore">
+ <summary>
+ スコア
+ </summary>
+ <returns>スコア</returns>
+</member>
 </members>
 </doc>

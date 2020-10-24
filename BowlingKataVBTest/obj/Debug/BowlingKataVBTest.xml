@@ -37,5 +37,27 @@ BowlingKataVBTest
  すべて1ピンだった場合
  </summary>
 </member>
+<member name="M:BowlingKataVBTest.GameTest.OneSpareTest">
+ <summary>
+ １回スペアを出した場合
+ </summary>
+</member>
+<member name="M:BowlingKataVBTest.GameTest.OneStrikeTest">
+ <summary>
+ １回ストライクを出した場合
+ </summary>
+</member>
+<member name="M:BowlingKataVBTest.GameTest.PerfectGameTest">
+ <summary>
+ パーフェクトゲームだった場合
+ </summary>
+</member>
+<member name="M:BowlingKataVBTest.GameTest.RollMany(System.Int32,System.Int32)">
+ <summary>
+ 多数回投球して、その際倒したピン数をまとめて入力
+ </summary>
+ <param name="n">投球回数</param>
+ <param name="pins">その都度倒したピンの数</param>
+</member>
 </members>
 </doc>
